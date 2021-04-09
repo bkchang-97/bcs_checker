@@ -1,0 +1,32 @@
+{"courses": [
+    {
+        "code": 110,
+        "credits": 4,
+        "dept": "CPSC"
+    },
+    {
+        "code": 121,
+        "credits": 4,
+        "dept": "CPSC"
+    },
+    {
+        "code": 112,
+        "credits": 3,
+        "dept": "ENGL"
+    },
+    {
+        "code": 180,
+        "credits": 3,
+        "dept": "MATH"
+    },
+    {
+        "code": 203,
+        "credits": 3,
+        "dept": "STAT"
+    },
+    {
+        "code": 100,
+        "credits": 30,
+        "dept": "TEST"
+    }
+]}

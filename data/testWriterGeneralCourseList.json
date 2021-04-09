@@ -1,0 +1,12 @@
+{"courses": [
+    {
+        "code": 330,
+        "credits": 3,
+        "dept": "CPSC"
+    },
+    {
+        "code": 210,
+        "credits": 4,
+        "dept": "CPSC"
+    }
+]}
